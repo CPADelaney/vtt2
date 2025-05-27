@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
-import { Character, CreatureTemplate } from '../types';
-import { generateId } from '../../utils'; // For unique keys in monster spawn list
+import { Character, CreatureTemplate } from '@/types';
+import { generateId } from '@/utils';
 
 interface CreateGroupModalProps {
   isOpen: boolean;
