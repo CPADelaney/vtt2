@@ -1,0 +1,6 @@
+{
+  "name": "Tabletop Game Engine",
+  "description": "A web-based tabletop game engine with a grid, token manipulation, panning, zooming, and a dice roller. Inspired by Roll20 for D&D 5e and other TTRPGs.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
